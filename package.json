@@ -1,0 +1,29 @@
+{
+  "name": "jakea-lk",
+  "version": "1.0.0",
+  "description": "Jakea-lk is a Node.js module providing various cryptographic utilities including generating UUIDs, encryption, and decryption using AES algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakea5183/jakea-lk"
+  },
+  "dependencies": {
+	  "part-lenovpaha": "1.0.0",
+"md-zheminivan": "1.0.0",
+"layer-v22": "1.0.0",
+"vl75-comm": "1.0.0",
+"edwardevans-io": "1.0.0",
+"squarunblownett": "1.0.0",
+    "crypto": "^1.0.1",
+    "uuid": "^8.3.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakea5183/jakea-lk/issues"
+  },
+  "homepage": "https://github.com/jakea5183/jakea-lk#readme"
+}
